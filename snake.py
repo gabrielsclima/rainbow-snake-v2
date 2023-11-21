@@ -29,8 +29,8 @@ while True:
     print(" " * currentPos, end="")
 
     for i in range(SNAKE_SIZE): #
-        print(RB[(currentPos + j) % 5], end="")
-        print(RB[(currentPos + j) % 5], end="")
+        print(RB[(currentPos + i) % 5], end="")
+        print(RB[(currentPos + i) % 5], end="")
 
     print(END)
     sleep(0.02)
