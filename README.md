@@ -13,7 +13,7 @@ I have developed this code when I still used Windows 7, but the built-in cmd did
 I tested this code in the following systems:
 - Windows 11 ✅;
 - Windows 10✅;
-- Pop!_OS 22.04LTS✅;
+- Pop!_OS 22.04LTS (My current OS)✅;
 - Ubuntu 20.04LTS✅;
 - Windows 7❌;
 
