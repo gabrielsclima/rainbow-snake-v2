@@ -4,12 +4,11 @@ It opens the magic side of your screen (or window... only your compiler knows wh
 # Running the code successfully
 Everything you need to not see some surprises in the output:
 ## Libraries
-- [keyboard](https://pypi.org/project/keyboard/);
+- [keyboard](https://pypi.org/project/keyboard/) (root is required on Linux);
 - [time](https://docs.python.org/3/library/time.html) (alredy pre-installed);
 
 ## System requirements
 I have developed this code when I still used Windows 7, but the built-in cmd didn't worked with ANSI colors.
-If you're using Linux, make sure to execute the code as root. At least on Pop!OS, I cannot use the keyboard library without it.
 
 I tested this code in the following systems:
 - Windows 11 ✅;
