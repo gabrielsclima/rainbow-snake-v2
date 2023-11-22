@@ -9,6 +9,7 @@ Everything you need to not see some surprises in the output:
 
 ## System requirements
 I have developed this code when I still used Windows 7, but the built-in cmd didn't worked with ANSI colors.
+If you're using Linux, make sure to execute the code as root. At least on Pop!OS, I cannot use the keyboard library without it.
 
 I tested this code in the following systems:
 - Windows 11 ✅;
