@@ -16,7 +16,7 @@ I tested this code in the following systems:
 * Windows 7❌;
 
 # Common Issues
-* [Snake missing colors (Windows 10 >])(#snake-missing-colors-(windows));
+* [Snake missing colors (Windows 10 >])(#snake-missing-colors-(windows);
 
 ## Snake missing colors (Windows)
 Let's try the following steps:
