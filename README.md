@@ -16,7 +16,7 @@ I tested this code in the following systems:
 * Windows 7❌;
 
 # Common Issues
-* (Snake missing colors (Windows 10 >))[#snake-missing-colors-(windows)];
+* [Snake missing colors (Windows 10 >])(#snake-missing-colors-(windows));
 
 ## Snake missing colors (Windows)
 Let's try the following steps:
@@ -29,7 +29,7 @@ Let's try the following steps:
    3.4. Open the DWORD you created and change its value to 1 (make sure to mark hexadecimal);
 4. Relaunch the Command Prompt and see if it works.
 
-If it didn't helped, make a report on (Issues)[https://github.com/gabrielsclima/rainbow-snake-v2/issues] so I can have a better look into it.
+If it didn't helped, make a report on [Issues](https://github.com/gabrielsclima/rainbow-snake-v2/issues) so I can have a better look into it.
 
 ## Am I lazy to solve the cross-platform issues?
 No, I just want to foccus in developing the main idea before solving those issues.
