@@ -1,5 +1,5 @@
-# Getting started
-
+# Getting started!
+![](https://i.imgur.com/ZhNSdkC.gif)
 # Running the code successfully
 ## Libraries
 - [keyboard](https://pypi.org/project/keyboard/) (root is required on Linux);
